@@ -3,7 +3,6 @@
 
 1、单流方法 通过获取 pose hand face 关键点后提取特征
 
-<p align="center">
-    <img src="test_video/0925_1.mp4" width="70%"></a> <br>
-    HUAZANG_MLLM Demo.
-</p>
+<video controls width="600">
+  <source src="test_video/0925_1.mp4" type="video/mp4">
+</video>
